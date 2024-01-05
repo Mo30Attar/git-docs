@@ -1,3 +1,5 @@
 New File
 Responsive Table done!
 This is second responsive table!
+
+This is edited by VSCode for stash process
